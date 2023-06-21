@@ -1,5 +1,7 @@
+[![MasterHead](https://media.licdn.com/dms/image/C4D12AQFeqZIrL2SG3w/article-cover_image-shrink_423_752/0/1526915101246?e=1692835200&v=beta&t=IXBEmNZzg-MwlZCijIvTYtuPV427gxTyOV8Vifhw2g4)]
 <h1 align="center">Hi 👋, I'm Mayur</h1>
 <h3 align="center">I am an aspiring Java Developer, DSA Enthusiast and AWS Solution Architect Associate Certified.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lordbakyarou&label=Profile%20views&color=0e75b6&style=flat" alt="lordbakyarou" /> </p>
 
