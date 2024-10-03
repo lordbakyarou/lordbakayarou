@@ -1,15 +1,14 @@
-![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=1380)
+<div style="width:100%;height:20rem;" >
+    
+<img style="height:100%;width:100%; object-fit:cover"  src="https://res.cloudinary.com/dujoneujx/image/upload/v1709207142/docs/joje7jvk2e9ry3lbqha4.gif" />
+</div>
 <h1 align="center">Hi 👋, I'm Mayur</h1>
 <h3 align="center">I am an aspiring Java Developer, DSA Enthusiast and AWS Solution Architect Associate Certified.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lordbakyarou&label=Profile%20views&color=0e75b6&style=flat" alt="lordbakyarou" /> </p>
 
-- 🔭 I’m currently working on [DSA Skills](https://leetcode.com/mayur1710hanwate/)
-
-- 🌱 I’m currently learning **MERN Stack**
-
-- 💬 Ask me about **AWS, Java, DSA**
+- 🌱 I have hands-on experience building full-stack applications using the MERN Stack (MongoDB, Express, React, Node.js).
 
 - 📫 How to reach me **mayur1710hanwate@gmail.com**
 
